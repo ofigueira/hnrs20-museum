@@ -1206,16 +1206,28 @@
 			right: 0;
 		}
 
-		.spotlight.style1 .content {
-			border-color: #e44c65;
+		.spotlight.style1 .content { /*utility*/
+			border-color: #FF9933;
 		}
 
-		.spotlight.style2 .content {
-			border-color: #5480f1;
+		.spotlight.style2 .content { /*experience*/
+			border-color: #003399;
 		}
 
-		.spotlight.style3 .content {
-			border-color: #39c088;
+		.spotlight.style3 .content { /*home*/
+			border-color: #990000;
+		}
+
+		.spotlight.style4 .content { /*knowledge*/
+			border-color: #003d00;
+		}
+
+		.spotlight.style5 .content { /*passion*/
+			border-color: #660099;
+		}
+
+		.spotlight.style6 .content { /*ideology*/
+			border-color: #FF00FF;
 		}
 
 		.spotlight.inactive .content {
